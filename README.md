@@ -4,7 +4,7 @@
 
 This is a javascript solution that runs in your browser. It deliberately runs slowly so you can see the image as it is drawn from the original image.
 
-[View the solution here.](http://sdsykes.github.io/secretmessage/)
+[View the solution here.](http://sdsykes.github.io/secretnut/)
 
 ### Solution description
 
