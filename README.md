@@ -50,6 +50,10 @@ The important parts of the program are as follows:
       setTimeout(function() {draw(imgd, x + xinc, y + yinc, xinc, yinc)}, 100);
     }
 
+### In ruby
+
+You can see [a simple working version of the same algorithm in ruby here.](https://github.com/sdsykes/secretnut/blob/master/a.rb)
+
 ### Thanks
 
 Thanks to Wunderdog for [posing another fun puzzle](http://wunder.dog/secret-message-1).
